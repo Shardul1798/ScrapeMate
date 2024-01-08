@@ -1,0 +1,11 @@
+error: 2024-01-08T10:13:21.203Z: this.info is not a function TypeError: this.info is not a function
+    at LoggerService.logRequest (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/src/lib/logger/logger.provider.ts:7:10)
+    at LoggingInterceptor.logRequestDetails (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/src/interceptors/logging/logging.interceptor.ts:26:17)
+    at LoggingInterceptor.intercept (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/src/interceptors/logging/logging.interceptor.ts:19:10)
+    at nextFn (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:23:36)
+    at /home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:25:40
+    at Observable._subscribe (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/node_modules/rxjs/src/internal/observable/defer.ts:55:15)
+    at Observable._trySubscribe (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/node_modules/rxjs/src/internal/Observable.ts:244:19)
+    at /home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/node_modules/rxjs/src/internal/Observable.ts:234:18
+    at Object.errorContext (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/node_modules/rxjs/src/internal/util/errorContext.ts:29:5)
+    at Observable.subscribe (/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/node_modules/rxjs/src/internal/Observable.ts:220:5)

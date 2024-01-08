@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/logs/.1e42f5908d9b8669dbd3cfb2051f6afd57c9df68-audit.json",
+    "files": [
+        {
+            "date": 1704708150270,
+            "name": "/home/appinventiv/Desktop/node/NEST TASK/webs-crape-mate/logs/Combined-2024-01-08.log",
+            "hash": "588eb5d1ec70bee2c81094851e75581053fcfad58290a92d4ba0dc0748565afb"
+        }
+    ],
+    "hashType": "sha256"
+}

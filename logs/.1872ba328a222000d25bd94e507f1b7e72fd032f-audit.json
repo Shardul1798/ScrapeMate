@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/appinventiv/Desktop/node/ScrapeMate/logs/.1872ba328a222000d25bd94e507f1b7e72fd032f-audit.json",
+    "files": [
+        {
+            "date": 1704711919670,
+            "name": "/home/appinventiv/Desktop/node/ScrapeMate/logs/Combined-2024-01-08.log",
+            "hash": "7d468884df404a2682dbcdcd114f5521d274cd382736672c59711881246d8c20"
+        }
+    ],
+    "hashType": "sha256"
+}
